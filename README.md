@@ -1,1 +1,1 @@
-# Hytrak
+The main goal of this project was to use of Earth Observation (EO) to retrospectively map out spatial-temporal changes in the Winam Gulf and develop a model that predicts water hyacinth reserves and growth patterns to aid in risk mitigation and sustainable water hyacinth utilization in biofuel production by Aquaethanol Technologies (AET)
