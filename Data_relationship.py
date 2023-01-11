@@ -1,9 +1,8 @@
 #-------------------------------------------------------------------------------
-# Name:        Data Relationships
-# Purpose:
-#
-# Author:      Caleb (@calebjuma27@gmail.com) for AET
-#
+# Name:         Data Relationships
+# Purpose:      Establish relationships between variables used for w.hyacinth prediction
+# Project Lead: Eric G Kariuki
+# Author:       Caleb (@calebjuma27@gmail.com) for AET
 # Created:     27/09/2022
 # Copyright:   (c) -----
 # Licence:     <your licence>
