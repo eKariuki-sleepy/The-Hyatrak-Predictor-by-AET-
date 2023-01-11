@@ -90,6 +90,7 @@ NB: "from_duration" and "to_duration" should not be greater than the "future_pre
 ## License
 
 Copyright: ©AET 2022
+
 Supported by the International Sustainability Academy (ISA), Hamburg - Germany
 
 <br />
