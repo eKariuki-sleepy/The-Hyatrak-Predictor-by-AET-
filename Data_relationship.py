@@ -2,7 +2,7 @@
 # Name:        Data Relationships
 # Purpose:
 #
-# Author:      Caleb @calebjuma27@gmail.com
+# Author:      Caleb (@calebjuma27@gmail.com) for AET
 #
 # Created:     27/09/2022
 # Copyright:   (c) -----
