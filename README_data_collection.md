@@ -116,6 +116,6 @@ Supported by the International Sustainability Academy (ISA), Hamburg - Germany
 
 ## Contact 
 <br />
-Caleb Masinde: ***caleb.masinde@motor_ai.com***  / ***calebjuma27@gmail.com*** 
+Caleb Masinde: ***caleb.masinde@motor_ai.com*  / *calebjuma27@gmail.com*** 
 <br />
-Eric G Kariuki: ***gathirwa@aquaethanol.co.ke***  / ***ericgathirwak@gmail.com*** 
+Eric G Kariuki: ***gathirwa@aquaethanol.co.ke*  / *ericgathirwak@gmail.com*** 
