@@ -109,6 +109,7 @@ The data exported as a csv file will be used for training in the next step. It c
 ## License
 
 Copyright: ©AET 2022
+<br />
 Supported by the International Sustainability Academy (ISA), Hamburg - Germany
 
 <br />
