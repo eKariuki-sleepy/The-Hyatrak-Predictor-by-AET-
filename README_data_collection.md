@@ -14,7 +14,7 @@ This notebook shows you how to use GeoPandas and Google Earth Engine to:
 ## Requirements
 
 - Access to Google Earth Engine. The data collection and processing happens entirely on the cloud.
-- Area of interest as a geojson (in this case Winam lake and Winam's surrounding area buffer)
+- Area of interest (AOI) as a geojson (in this case Winam lake and Winam's surrounding area buffer)
 
 <br />
 
