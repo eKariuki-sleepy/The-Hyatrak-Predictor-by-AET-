@@ -1,6 +1,6 @@
 ## The main features of this package are:
 
-This repository allows for training and prediction of Hyacinth acreage values(in km²) using an LSTM approach. LSTM refers to a type of artificial neural network called ***long short-term memory*** networks, which is used in deep learning. These networks, which are a specific type of recurrent neural network, have the ability to learn and understand patterns in sequences over an extended period of time, and are particularly useful for solving sequence prediction problems.
+This repository allows for training and prediction of Hyacinth acreage values(in km²) using an LSTM approach. LSTM refers to a type of artificial neural network called **_long short-term memory_** networks, which is used in deep learning. These networks, which are a specific type of recurrent neural network, have the ability to learn and understand patterns in sequences over an extended period of time, and are particularly useful for solving sequence prediction problems.
 
 <br />
 
@@ -84,6 +84,10 @@ The "from_duration" and "to_duration" give you flexibility when it comes to eval
 Normally, it performs at small durations and deteriorates as one moves closer to the "to_duration" variable.
 
 NB: "from_duration" and "to_duration" should not be greater than the "future_prediction" vaiable.
+
+## Sample results
+
+![title](images/predictions.jpg)
 
 <br />
 
