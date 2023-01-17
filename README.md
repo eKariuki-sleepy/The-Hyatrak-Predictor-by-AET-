@@ -1,6 +1,6 @@
-## Area of Interest
+## Area of Interest (AOI)
 
-The Winam Gulf, formerly Kavirondo Gulf, a section of Lake Victoria in Kenya.
+The AOI of this project was the Winam Gulf, formerly Kavirondo Gulf, a section of Lake Victoria in Kenya.
 <br>
 
 ![title](images/AOI_Winam.jpg)
