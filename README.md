@@ -1,6 +1,6 @@
 ## Area of Interest
 
-The Winam Gulf, a portion of Lake Victoria within Kenya.
+The Winam Gulf, formerly Kavirondo Gulf, a section of Lake Victoria in Kenya.
 <br>
 
 ![title](images/AOI_Winam.jpg)
@@ -12,7 +12,7 @@ The Winam Gulf, a portion of Lake Victoria within Kenya.
 The objective of this project was to analyze:
 
 - satellite imagery and monitor changes in the Winam Gulf and its littoral area between 1984-2022,
-- to build the Hyatrak model that can forecast the distribution and growth of water hyacinth.
+- to build the Hyatrak predictor, a model that can forecast the distribution and growth of water hyacinth.
 
 <br>
 
@@ -21,7 +21,7 @@ The model will assist in preventing negative impacts caused by water hyacinth an
 
 ## Notes
 
-Aquaethanol Technologies (AET) is responsible for this project.
+This project was conducted by (AET) Aquaethanol Technologies.
 
 ![title](images/aet-logo.jpg)
 
